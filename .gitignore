@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+
+# YOLO model weights
+*.pt
+
+# Video files
+input/*.mp4
+output/*.mp4
+

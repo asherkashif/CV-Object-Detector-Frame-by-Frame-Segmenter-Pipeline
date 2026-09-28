@@ -1,0 +1,2 @@
+total_frames,average_objects_per_frame,maximum_objects_per_frame,minimum_objects_per_frame,average_contours_per_frame,average_inference_time_seconds,average_processing_time_seconds,average_processing_fps
+1786,7.7922732362821945,16,2,229.1326987681971,0.26413954831860553,0.31982571237435314,3.1649137904246594
